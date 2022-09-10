@@ -15,7 +15,18 @@
 ![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=mysql)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
-
+![Rancher](https://img.shields.io/badge/-Rancher-black?style=flat-square&logo=rancher)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-black?style=flat-square&logo=rabbitmq)
+![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
+![Cloudera](https://img.shields.io/badge/-Cloudera-black?style=flat-square&logo=cloudera)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+![Jetbrains](https://img.shields.io/badge/-Jetbrains-black?style=flat-square&logo=jetbrains)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
+![Ngrok](https://img.shields.io/badge/-Ngrok-black?style=flat-square&logo=ngrok)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 
 
 [![Ispong's github stats](https://github-readme-stats.vercel.app/api?username=ispong&show_icons=true&theme=merko)](https://github.com/ispong)
