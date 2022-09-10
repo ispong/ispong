@@ -7,3 +7,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+
+[![Ispong's github stats](https://github-readme-stats.vercel.app/api?username=ispong&show_icons=true&theme=merko)](https://github.com/ispong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ispong&layout=compact&theme=merko)](https://github.com/ispong)
