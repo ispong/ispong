@@ -34,4 +34,3 @@
 ## 😊 Happy Coding 
 
 [![Ispong's github stats](https://github-readme-stats.vercel.app/api?username=ispong&show_icons=true&theme=merko)](https://github.com/ispong)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ispong&layout=compact&theme=merko)](https://github.com/ispong)
